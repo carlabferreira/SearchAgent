@@ -6,3 +6,4 @@ O problema proposto foi a implementação de um agente conversacional, utilizand
 O agente apresentado em questão tem como objetivo informar rotas entre diferentes pontos de Belo Horizonte, tendo como seu alvo principal os diversos museus da cidade.
 
 - Documentação disponível em: https://docs.google.com/document/d/1otLG8l551rNKOhsFqHR0AGeyiCqThphwiAW5-ELpzxo/edit?usp=sharing
+- Enunciado em - [Enunciado.pdf](./auxiliares/Enunciado_TP1_2025.pdf)
